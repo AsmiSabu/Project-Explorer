@@ -1,5 +1,8 @@
-# Welcome to GitHub Desktop!
+# Project Name: Profit Explorer
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+##Project Details
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+- ** Estimated Budget: ** $ 50,000
+- ** Code:** React,Node.js,MongoDB
+- ** Start Date:** June 10,2025
+ -** End Date: ** Aug 20,2025
