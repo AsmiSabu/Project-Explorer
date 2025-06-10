@@ -1,7 +1,5 @@
-# Project-Explorer
-## Employee Data
-| ID |   NAME   | RATE |
-|----|----------|------|
-| 1  | M ichael | 35%  |
-| 2  |   Shawn  | 25%  |
-| 3  |  Luffy   | 15%  |
+# Project-explorer
+## Requirements
+- There should be ID of the employee
+- There should be name of the employee
+- There should be rate at which employee is working
